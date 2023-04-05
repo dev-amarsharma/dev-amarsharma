@@ -2,7 +2,7 @@
 
 
 ## About me
-- I am a Senior Android developer with 7+ years experience
+- I am a Senior Android developer with 8+ years of experience
 - Published 30+ Android apps from inception to deployment.
 - Maintained comprehensive knowledge of mobile development cycle and addressed challenges arising in each phase.
 - Delivered weekly progress report to executive staff and informed applicable parties of upcoming milestones.
